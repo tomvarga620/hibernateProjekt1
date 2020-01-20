@@ -2,6 +2,8 @@ package hibernate;
 
 import javax.persistence.*;
 
+@Entity
+@Table(name = "instructor")
 public class Instructor {
 
     @Id

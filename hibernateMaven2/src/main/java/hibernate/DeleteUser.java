@@ -1,10 +1,10 @@
-import hibernate.Instructor;
-import hibernate.InstructorDetail;
+package hibernate;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class CreateDemo {
+public class DeleteUser {
 
     public static void main(String[] args) {
 
@@ -18,21 +18,15 @@ public class CreateDemo {
 
         try {
 
-        Instructor tempInstructor = new Instructor("Tomik","Varga","tomik@tomik.com");
-
-        InstructorDetail tempInstructorDetail =
-                new InstructorDetail("youtube.com/tomikfortnite","tomik fortnite");
-
-        tempInstructor.setInstructorDetail(tempInstructorDetail);
-
         session.beginTransaction();
 
-        session.save(tempInstructor);
+        int theId = 1;
 
-        System.out.println("Commit transaction");
+        Instructor tempInstructor = session.get(Instructor.class,theId);
+
+        session.delete(tempInstructor);
+
         session.getTransaction().commit();
-
-        System.out.println("Done");
 
         } finally {
             factory.close();
