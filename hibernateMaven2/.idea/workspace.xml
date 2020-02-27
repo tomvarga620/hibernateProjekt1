@@ -2,7 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e620d417-de5f-466d-907a-1e640b87cf73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateMaven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/DeleteStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/QueryStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/QueryStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/UpdateStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateMaven/src/main/java/hibernate/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/DeleteStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/QueryStudentDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/QueryStudentDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/UpdateStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateMaven/target/classes/hibernate/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/DeleteUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/1.0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/hibernateMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/CreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/DeleteInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/GetInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/hibernate/DeleteUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/hibernate/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/java/hibernate/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/CreateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/DeleteInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/GetInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/hibernateMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateCourseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateInstructorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/DeleteInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/GetInstructorCoursesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/GetInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/DeleteUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateCourseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateInstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/DeleteInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/GetInstructorCoursesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/GetInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,7 +101,17 @@
     <favorites_list name="hibernateMaven" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,6 +204,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,9 +276,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986339" visible="true" weight="0.31473532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986339" visible="true" weight="0.3190272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,13 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -277,6 +366,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>

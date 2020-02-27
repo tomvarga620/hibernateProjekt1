@@ -56,38 +56,38 @@
       <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/Instructor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hibernateMaven3/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernateMaven.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CreateCourseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CreateDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CreateInstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DeleteInstructorDetailDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GetInstructorCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GetInstructorDetailDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/DeleteUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateCourseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateInstructorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DeleteInstructorDetailDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GetInstructorCoursesDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GetInstructorDetailDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/hibernateMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateCourseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/CreateInstructorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/DeleteInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/GetInstructorCoursesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/GetInstructorDetailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/DeleteUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/java/hibernate/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateCourseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/CreateInstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/DeleteInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/GetInstructorCoursesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/GetInstructorDetailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/DeleteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateMaven4/target/classes/hibernate/InstructorDetail.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,20 +101,7 @@
     <favorites_list name="hibernateMaven" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,13 +139,18 @@
         <option value="$PROJECT_DIR$/src/main/java/CreateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/GetInstructorDetailDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/DeleteInstructorDetailDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hibernate/Instructor.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/CreateInstructorDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/CreateCourseDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/GetInstructorCoursesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernate/Review.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernate/Instructor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateCourseAndReviewsDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernate/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetCourseAndReviewsDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DeleteCourseAndReviewsDemo.java" />
       </list>
     </option>
   </component>
@@ -178,38 +170,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateMaven5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibernateMaven5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateMaven5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibernateMaven5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateMaven5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibernateMaven5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateMaven5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibernateMaven5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hibernateMaven4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hibernateMaven4" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateMaven5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibernateMaven5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -222,16 +206,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581628926714" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582841655945" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="hibernate" />
@@ -253,7 +234,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetInstructorCoursesDemo">
+  <component name="RunManager" selected="Application.GetCourseAndReviewsDemo">
+    <configuration name="CreateCourseAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateCourseAndReviewsDemo" />
+      <module name="1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CreateCourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreateCourseDemo" />
       <module name="1.0" />
@@ -276,7 +264,14 @@
       </method>
     </configuration>
     <configuration name="DeleteUser" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteUser" />
+      <option name="MAIN_CLASS_NAME" value="hibernate.DeleteUser" />
+      <module name="1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCourseAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetCourseAndReviewsDemo" />
       <module name="1.0" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -310,16 +305,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DeleteInstructorDetailDemo" />
-      <item itemvalue="Application.DeleteUser" />
-      <item itemvalue="Application.GetInstructorDetailDemo" />
-      <item itemvalue="Application.createdemo" />
+      <item itemvalue="Application.CreateCourseAndReviewsDemo" />
       <item itemvalue="Application.CreateCourseDemo" />
       <item itemvalue="Application.CreateInstructorDemo" />
+      <item itemvalue="Application.DeleteInstructorDetailDemo" />
+      <item itemvalue="Application.DeleteUser" />
+      <item itemvalue="Application.GetCourseAndReviewsDemo" />
       <item itemvalue="Application.GetInstructorCoursesDemo" />
+      <item itemvalue="Application.GetInstructorDetailDemo" />
+      <item itemvalue="Application.createdemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetCourseAndReviewsDemo" />
+        <item itemvalue="Application.CreateCourseAndReviewsDemo" />
         <item itemvalue="Application.GetInstructorCoursesDemo" />
         <item itemvalue="Application.CreateCourseDemo" />
         <item itemvalue="Application.CreateInstructorDemo" />
@@ -340,9 +339,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986339" visible="true" weight="0.28612304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986339" visible="true" weight="0.29041487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,8 +350,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50136614" side_tool="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2707483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38639456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983629" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,6 +380,26 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.10.Final/hibernate-core-5.4.10.Final.jar!/org/hibernate/event/internal/DefaultLoadEventListener.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/DeleteUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/InstructorDetail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -395,13 +414,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetInstructorDetailDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -425,17 +437,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetInstructorCoursesDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateInstructorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="390">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -446,47 +451,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CreateDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="175">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CreateInstructorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="253">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DeleteUser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetInstructorCoursesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateCourseAndReviewsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetCourseAndReviewsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetInstructorDetailDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DeleteCourseAndReviewsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Instructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
